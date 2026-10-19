@@ -9,18 +9,29 @@ The objective is to predict whether the patients have heart disease or not, base
 # Features
 
 Load the data
+
 Data Cleaning
+
 Exploratory data analysis
+
 Data preprocessing
+
 Model comparison
+
 Display results
 
 # Technologies used
 
 Python
+
 Panda 
+
 Numpy
+
 Matplotlib
+
 Seaborn
+
 Scikit-learn
+
 SHAP
