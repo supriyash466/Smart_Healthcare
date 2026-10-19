@@ -44,7 +44,7 @@ Open Google Colab.
 
 Upload the notebook.
 
-Upload diabetes_dataset.csv using the Files panel.
+Upload smart_healthcare_dataset.csv using the Files panel.
 
 Run the notebook cells from top to bottom.
 
